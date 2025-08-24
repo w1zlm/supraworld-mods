@@ -6,9 +6,7 @@ Heres how to install any mod:
 3. open the mod folder (for example SimpleMod)
 4. download it as zip (Code -> Download ZIP)
 5. unzip it with 7z
-6. in the unzipped folder there should be two folders:
-blueprint
-\*Mods name\*
+6. in the unzipped folder there should be two folders: blueprint, \*Mods name\*
 7. open C:\Program Files (x86)\Steam\steamapps\common\Supraworld\Supraworld\Content\Paks\LogicMods in another window
 8. select every file in the blueprint folder (in the unzipped folder) and drag them into that folder you opened on step 5
 9. open C:\Program Files (x86)\Steam\steamapps\common\Supraworld\Supraworld\Binaries\Win64\Mods in the window you opened on step 5
