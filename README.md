@@ -15,3 +15,5 @@ Heres how to install any mod:
 12. in mods.txt add "SimpleMod : 1" at the end on a new line (ABOVE "; Built-in keybinds, do not move up!")
 13. save it
 14. launch the game and it should work
+
+Also dont forget to read the controls.md file to know how to use the mod 💔
