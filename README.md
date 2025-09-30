@@ -1,7 +1,7 @@
 # supraworld-mods
 Heres how to install any mod:
 
-1. install [ue4ss](https://github.com/UE4SS-RE/RE-UE4SS) version which supports ue 5.6 ([quick download](https://github.com/UE4SS-RE/RE-UE4SS/releases/download/experimental-latest/zDEV-UE4SS_v3.0.1-464-gc343a32.zip)) (unzip with 7z!!!! Or it might not work)
+1. install [ue4ss](https://github.com/UE4SS-RE/RE-UE4SS) version which supports ue 5.6 ([quick download](https://github.com/UE4SS-RE/RE-UE4SS/releases/download/experimental-latest/zDEV-UE4SS_v3.0.1-541-gf732ada.zip)) (unzip with 7z!!!! Or it might not work)
 2. launch and close the game
 3. open the mod folder (for example SimpleMod)
 4. download it as zip (Code -> Download ZIP)
